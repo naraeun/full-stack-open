@@ -1,0 +1,8 @@
+title create note in SPA
+
+note over browser:
+input text and enter save button
+make the JSON data to send Server
+end note
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server-->browser: okay
